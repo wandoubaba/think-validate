@@ -2,6 +2,8 @@
 
 基于PHP5.6+ 的Validate实现
 
+> 来自topthink/think-validate的fork版本，针对8.0+环境做了一点点修复。
+
 ## 安装
 ~~~
 composer require topthink/think-validate
