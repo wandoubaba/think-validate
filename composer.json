@@ -1,6 +1,6 @@
 {
-    "name": "topthink/think-validate",
-    "description": "think validate",
+    "name": "wandoubaba/think-validate",
+    "description": "fork from topthink/think-validate",
     "license": "Apache-2.0",
     "authors": [
         {
